@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.22)  3 NOV 2020 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.22)  6 NOV 2020 17:53
 entering extended mode
 **c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex
 (c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex
@@ -269,29 +269,42 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 48.
 
 
-Overfull \hbox (2.3063pt too wide) in paragraph at lines 52--53
-\IL2/cmr/m/n/10 ti-vita di-¹ta-nèného vzde-lá-va-nia mô¾e by» ne-ga-tívne ovplyv-nená tech-nic-kými prob-
- []
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 65.
 
 
-Underfull \vbox (badness 1430) has occurred while \output is active []
+Package hyperref Warning: Composite letter `\textasciicaron+l'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 65.
 
- [2] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.bbl) [3] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.aux)
+[2]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 77.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 77.
+
+(c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.bbl) [3] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: AF556EE585BC712C600AF25445AA2D0A;405.
+(rerunfilecheck)             Checksum: 8D5F89D3EE31D19DC833978B092FEA82;927.
  ) 
 Here is how much of TeX's memory you used:
- 6508 strings out of 480236
- 97670 string characters out of 2890431
- 413492 words of memory out of 3000000
- 22930 multiletter control sequences out of 15000+200000
+ 6517 strings out of 480236
+ 97852 string characters out of 2890431
+ 413686 words of memory out of 3000000
+ 22933 multiletter control sequences out of 15000+200000
  547226 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,66p,1010b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,7n,66p,1026b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.pdf (3 pages, 135235 bytes).
+Output written on c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.pdf (3 pages, 156344 bytes).
 PDF statistics:
- 460 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 536 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1604434564 "clanok.aux" "clanok.bbl" "clanok" 1604435154
+["bibtex clanok"] 1604681625 "clanok.aux" "clanok.bbl" "clanok" 1604681839
   "A:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1604435154 2275 eb8e7153d04e885c1c024ffbb8c34639 "pdflatex"
-  "literatura.bib" 1604232197 4911 1bf4e7de2d319b441e743c267bc41f74 ""
+  "clanok.aux" 1604681627 3176 803bdcbb2bafefda597857fea8d672cd "pdflatex"
+  "literatura.bib" 1604520226 7147 ec75000c1aa9de01fbe53e7f93f715b3 ""
   (generated)
-  "clanok.blg"
   "clanok.bbl"
-["pdflatex"] 1604435152 "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex" "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.pdf" "clanok" 1604435154
+  "clanok.blg"
+["pdflatex"] 1604681625 "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex" "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.pdf" "clanok" 1604681839
   "A:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm0600.tfm" 993058906 1456 d21918d95ca20f07aa266303b9a0a14c ""
   "A:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "A:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -97,16 +97,16 @@
   "C:/Users/kikz0r/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/csbx12.pk" 1603390315 27708 3e0139a734fe2c03934f8f39087c1820 ""
   "C:/Users/kikz0r/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1603390209 10249732 13a249badf42d46c52251bcec59f4eed ""
   "C:/Users/kikz0r/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1603390166 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.aux" 1604435154 2275 eb8e7153d04e885c1c024ffbb8c34639 ""
-  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex" 1604435151 7037 e1dc8a6346a8c132bbecac0089c5613b ""
-  "clanok.aux" 1604435154 2275 eb8e7153d04e885c1c024ffbb8c34639 "pdflatex"
-  "clanok.bbl" 1604434564 486 6348dc136af44a088b2c70d9dcba5af1 "bibtex clanok"
-  "clanok.out" 1604435154 405 af556ee585bc712c600af25445aa2d0a "pdflatex"
-  "clanok.tex" 1604435151 7037 e1dc8a6346a8c132bbecac0089c5613b ""
+  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.aux" 1604681627 3176 803bdcbb2bafefda597857fea8d672cd ""
+  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex" 1604681621 8515 f875aba714e7c30df8fcf903292edc95 ""
+  "clanok.aux" 1604681627 3176 803bdcbb2bafefda597857fea8d672cd "pdflatex"
+  "clanok.bbl" 1604681625 1166 af221656be88332d22a3b049bf010d94 "bibtex clanok"
+  "clanok.out" 1604681627 927 8d5f89d3ee31d19dc833978b092fea82 "pdflatex"
+  "clanok.tex" 1604681621 8515 f875aba714e7c30df8fcf903292edc95 ""
   (generated)
-  "clanok.pdf"
-  "clanok.out"
   "clanok.aux"
-  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.pdf"
-  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.log"
+  "clanok.pdf"
   "clanok.log"
+  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.log"
+  "clanok.out"
+  "c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.pdf"
