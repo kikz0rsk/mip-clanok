@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.22)  6 NOV 2020 17:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.22)  9 DEC 2020 18:24
 entering extended mode
 **c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex
 (c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/clanok.tex
@@ -253,7 +253,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 42.
+(hyperref)                removing `\textasciicaron' on input line 40.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 40.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 41.
 
 [1
 
@@ -261,13 +271,14 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 45.
+(hyperref)                removing `\textasciicaron' on input line 44.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 48.
+(hyperref)                removing `\textasciicaron' on input line 47.
 
+[2]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
@@ -278,33 +289,54 @@ Package hyperref Warning: Composite letter `\textasciicaron+l'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 65.
 
-[2]
+<d2.png, id=97, 728.7225pt x 449.42906pt>
+File: d2.png Graphic file (type png)
+<use d2.png>
+Package pdftex.def Info: d2.png  used on input line 74.
+(pdftex.def)             Requested size: 364.36035pt x 224.71397pt.
+
+Overfull \hbox (19.36035pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 79.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 80.
+
+Overfull \hbox (17.40497pt too wide) in paragraph at lines 80--92
+[][] 
+ []
+
+[3 <c:/Users/kikz0r/Desktop/FIIT/MIP/clanok/d2.png>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 77.
+(hyperref)                removing `\textasciicaron' on input line 99.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 77.
+(hyperref)                removing `\textasciicaron' on input line 99.
 
-(c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.bbl) [3] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.aux)
+[4] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.bbl [5]) [6] (c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: 8D5F89D3EE31D19DC833978B092FEA82;927.
+(rerunfilecheck)             Checksum: 08D8A1FC6D0C994FC81F25C2272B8FE9;1030.
  ) 
 Here is how much of TeX's memory you used:
- 6517 strings out of 480236
- 97852 string characters out of 2890431
- 413686 words of memory out of 3000000
- 22933 multiletter control sequences out of 15000+200000
+ 6547 strings out of 480236
+ 98248 string characters out of 2890431
+ 417031 words of memory out of 3000000
+ 22947 multiletter control sequences out of 15000+200000
  547226 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,66p,1026b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,13n,66p,798b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kikz0r\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.pdf (3 pages, 156344 bytes).
+Output written on c:/Users\kikz0r\Desktop\FIIT\MIP\clanok\clanok.pdf (6 pages, 193325 bytes).
 PDF statistics:
- 536 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
